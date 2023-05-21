@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.OpenInApp.BoldText" parent="Theme.OpenInApp">
+        <item name="android:textFontWeight">600</item>
+        <item name="fontWeight">600</item>
+    </style>
+</resources>
